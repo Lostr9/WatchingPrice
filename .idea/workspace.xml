@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f6495f7-f847-459c-bf32-25ef2a168912" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/lostr/watchingprice/model/WapchingPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/watchingprice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/watchingprice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/lostr/watchingprice/model/WatchingPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/lostr/watchingprice/model/WatchingPage.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +60,7 @@
       <option name="presentableId" value="Default" />
       <updated>1594555909997</updated>
       <workItem from="1594555917696" duration="3304000" />
-      <workItem from="1594574030432" duration="76000" />
+      <workItem from="1594574030432" duration="357000" />
     </task>
     <servers />
   </component>
